@@ -72,6 +72,11 @@ All set! Please open up the Jupyter Notebook named `demo_cfg_controlnet.ipynb` t
 ## ❗Ethical Usage
 While you are encouraged to explore creative possibilities using the above methods, it is crucial that you do not use these personalization techniques for **harmful purposes**, such as generating content that includes nudity, violence, or targets specific identities. It is your responsibility to ensure that this method is applied ethically.
 
+## Credits
+This repository is built primarily on the [Diffusers](https://huggingface.co/docs/diffusers/index) library. We also thank the authors of the following resources:
+- [LoRA Implementation for Stable Diffusion 3.5](https://github.com/seochan99/stable-diffusion-3.5-text2image-lora)
+- [A Dataset of Rubber Duck Images](https://huggingface.co/datasets/linoyts/rubber_ducks)
+
 ## Further Readings
 If you are interested in this topic, we encourage you to check out the materials below.
 
