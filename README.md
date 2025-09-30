@@ -41,7 +41,7 @@ conda install pytorch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 pytorch-cuda=
 pip install -r requirements.txt
 ```
 
-Before proceeding with the demo, we will have a look at [Hugging Face](https://huggingface.co/), an open-source platform that serves as a hub for machine learning applications. [Diffusers](https://github.com/huggingface/diffusers) a go-to library for pretrained diffusion models made by Hugging Face. As we'll be downloading the pretrained Stable Diffusion model from Hugging Face, you'll need to ensure you have access tokens.
+Before proceeding with the demo, we will have a look at [Hugging Face](https://huggingface.co/), an open-source platform that serves as a hub for machine learning applications, and [Diffusers](https://github.com/huggingface/diffusers), a go-to library for pretrained diffusion models hosted by Hugging Face. As we'll be downloading the pretrained Stable Diffusion model from Hugging Face, you'll need to ensure you have access tokens.
 
 Before running the demo, please do the following:
 * Sign into Hugging Face.
