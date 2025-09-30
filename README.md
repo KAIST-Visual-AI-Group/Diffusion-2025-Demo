@@ -36,7 +36,7 @@ Install the required package within the `requirements.txt`.
 
 **NOTE:** Install PyTorch according to the CUDA version of your environment (See [PyTorch Previous Versions](https://pytorch.org/get-started/previous-versions/))
 ```
-conda create -n cs492c python=3.8
+conda create -n cs492c python=3.10
 conda install pytorch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 pytorch-cuda=12.1 -c pytorch -c nvidia
 pip install -r requirements.txt
 ```
