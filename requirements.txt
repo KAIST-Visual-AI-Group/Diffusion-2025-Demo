@@ -33,7 +33,7 @@ xformer==1.0.1
 zipp==3.19.2
 datasets==2.21.0
 accelerate==0.33.0
-diffusers==0.28.0
+diffusers==0.30.3
 bitsandbytes
 tensorboard
 peft==0.12.0
